@@ -2,7 +2,9 @@
 Small Factorio mod, adds a pollution condenser.
 
 link to my profile on the official mod portal here: 
-(https://mods.factorio.com/user/Archy90)
+([https://mods.factorio.com/user/Archy90])
+and link to the mod here:
+([https://mods.factorio.com/mod/my-condenser-mod])
 
 
 My idea is to create a small building that consumes the pollution in Factorio and outputs a small amount of Sulfur. My in-game logic is that by cooling the polluted air, the sulfur can be extracted from the condensation.
