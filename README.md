@@ -30,4 +30,4 @@ The intended use is to reduce pollution and not to make it a viable Sulfuric Aci
 The high resource cost and niche use make it a later-game item, for games/situations where pollution may be a serious factor.
 It's unique shape and input/output requirements should encourage some thought on positioning, though using them isn't intended to be a puzzle to solve.
 
-Through developing this mod, I hope to learn some Lua and make a complete and polished product.
+Through developing this mod, I have learned some Lua and made a functional product.
